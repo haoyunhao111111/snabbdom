@@ -1,0 +1,9 @@
+{
+  "name": "snabbdom-dom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
